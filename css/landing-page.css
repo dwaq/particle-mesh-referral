@@ -15,7 +15,8 @@ h6 {
 header.masthead {
   position: relative;
   background-color: #081E40;
-  padding-bottom: 8rem;
+  padding-top: 7rem;
+  padding-bottom: 3rem;
 }
 
 header.masthead .overlay {
