@@ -1,8 +1,8 @@
 .call-to-action {
   position: relative;
 
-  background-color: #081E40;
-  @include background-cover;
+  background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAABYBAMAAACqvNKAAAAAIVBMVEX///////////8AAAD///////////////////////////911Zr4AAAAC3RSTlMKBwEAAwYFAgkIBMMtOqQAAAHWSURBVHgB7daBhxtBFAbwl5K0DiSFO8CdlSsHYr+0WwdKIAVG/oK4wAEaCwJIndKA0uNywLrC6F/Zftvu57nMFAWQAUl+K/Pe5H2btV6B5PoQbDRI2vpLsNXmLiHjQbG0FeYPB3LZL0Aql6fP5GpboyWUYeEB08cZ/hKq4Y2T6uwJIlT7maQMN3CE6de6k+UCjlhT74+VsatJhHG/bf3jPQ4Iax7LelckCJu7N2NygjC3PiVFlX1HhjCssxSRpSO9zlAV7CRD74f2apamprGf2zpFm925cb5FPg4T46iIfBxIioqIA0vSwIqqsx8gacxFfCdq4yBqTuEI19u6IwbYEy45t6SLk+IZsQWSunTEFqLLmSO2EFmOJ1n45jPtCdf2AhmaW69O03p366LniGXH35wgnkdsW/CkU4xtC4502iSUwydHupaE6nEGkXYgcddCpLqiZqYjvhTpJyNd9SieuAGJ90xHKmtiKtYTW5iYLZAgTPefrI8k4byxlxl6G/4nsEe6zVJpqxy9s88ZqvYj5UukAW5vJp7cACvLIg0wo+RIU6nR9aQPdJGIX6MVH0TaHCpI5EuG0kdiQ1pKL6ls/L+AMk+a3x9IW9fSRjuk1sUg/ONh6RfZZgygDmWfggAAAABJRU5ErkJggg==),linear-gradient( 175deg, #0e548a 0%, #0a4272 16%, #07315b 39%, #041e41 72% );
+
   padding-top: 7rem;
   padding-bottom: 7rem;
   .overlay {
